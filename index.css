@@ -1,0 +1,13 @@
+body {
+    background-image:url(../images/backgroundimg.jpg);
+}
+
+
+.searchContainer {
+    display:flex;
+    float:right;
+    margin-top: 45px;
+}
+#logo {
+    margin-top: -40px;
+}
